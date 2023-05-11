@@ -1,0 +1,138 @@
+@font-face {
+    font-family: "HarryPotter";
+    src: url("Fonts/HARRYP__.TTF");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Bluu";
+    src: url("Fonts/BluuNext-Titling.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    
+    background: url(Images/backgroundImage.png) fixed no-repeat top;
+    background-size: cover;
+    color: white;
+}
+header{    
+    width: 99.8%;
+    height: 100px;
+    border: 1px rgba(0, 0, 0, 0) solid;
+    background-color: rgba(0, 0, 0, .6);
+}
+header img{
+    margin-top: .7%;
+    width: 4%;
+    float: left;
+    margin-left: 2%;
+    /*border: 1px red solid;*/
+}
+header h1{
+    margin-top: 1%;
+    margin-left: 26%;
+    text-align: center;
+    /*border: 1px red solid;*/
+    font-family: HarryPotter;
+    font-size: 400%;
+    float: left;
+}
+/*
+header .menuWrapper .menuIcon{
+    width: auto;
+    margin-left: 180px;
+    margin-top: 10px;
+    float: left;
+    font-size: 25px;
+    color: #fff;
+    cursor: pointer;
+}
+*/
+header .menuWrapper .menuIcon{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+}
+.menuWrapper #btn-menu{
+    display: none;
+}
+#btn-menu:checked ~ .menuIcon{
+    visibility: hidden;
+}
+#btn-menu:empty ~ .menuCloseIcon{
+    visibility: hidden;
+}
+#btn-menu:checked ~ .menuCloseIcon{
+    visibility: visible;
+}
+.menu{
+    position: absolute;
+    top: 0; right: 0;
+    width: 100%;
+    max-width: 230px;
+    text-align: end;
+    background: hsla(0, 0%, 11%, .8);
+    transition: all 500ms ease;
+    opacity: 0;
+    visibility: hidden;
+    /*transform: translateY(15%);*/
+}
+.menu a{
+    padding: 30px;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    display: block;
+    border-left: 5px solid transparent;
+    transition: all 400ms ease;
+}
+.menu .first{
+    margin-top: 102px;
+}
+.menu a:hover{    
+    border-left: 5px solid #c7c7c7;
+    background: hsla(0, 0%, 12%, .9);
+}
+.menuCloseIcon{
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    color: #fff;
+    font-size: 30px;
+    cursor: pointer;
+}
+#btn-menu:checked ~ .menu{
+    opacity: 1;
+    visibility: visible;
+}
+
+/*AQUI TERMINA TODO LO QUE ESTA EN EL HEADER*/
+.content{
+    position: relative;
+    margin-top: 300px;
+}
+.content h1{
+    margin-top: 50px;
+    text-align: center;
+    font-family: Bluu;
+    font-size: 50px;
+    animation-duration: 1s;
+    animation-name: slidein;
+} 
+@keyframes slidein {
+    from {
+        margin-top: 300px;
+        font-size: 30px;
+    }to {
+        margin-top: 50px;
+        font-size: 50px;
+    }
+  }
