@@ -53,19 +53,20 @@ int main(){
         "Miguel",
         "Profe",
         "Jose",
+        "Juan"
     };
 
     Message messages[] = {
         {"Este es el primer mensaje", SENT,  "Samuel", 1, {"Anna"}},
-        {"Examen Asincrono 1", SENT,  "Ramiro", 1, {"Miguel"}},
+        {"Examen Asincrono 1", SENT,  "Ramiro", 2, {"Miguel", "Jose"}},
         {"Diseno de Estructura de Datos", SENT,  "Miguel", 1, {"Diego"}},
-        {"Este es un proyecto de examen", SENT,  "Diego", 1, {"Samuel"}},
+        {"Este es un proyecto de examen", SENT,  "Diego", 2, {"Samuel", "Anna"}},
         {"Mi cumple es el jueves", SENT,  "Anna", 1, {"Sabina"}},
-        {"Hoy es 9 de septiembre de 2024", SENT,  "Daniele", 1, {"Gigi"}},
+        {"Hoy es 9 de septiembre de 2024", SENT,  "Daniele", 2, {"Gigi", "Juan"}},
         {"Estoy en una sala colaborativa", SENT,  "Samuel", 1, {"Gigi"}},
-        {"Tengo una laptop", SENT,  "Anna", 1, {"Diego"}},
+        {"Tengo una laptop", SENT,  "Anna", 2, {"Diego", "Juan"}},
         {"Profe pongame 10", SENT,  "Samuel", 1, {"Profe"}},
-        {"Apoco si", SENT, "Jose", 1, {"Ramiro"}}
+        {"Apoco si", SENT, "Jose", 4, {"Ramiro", "Samuel", "Juan", "Sabina"}}
     };
 
     int nUsers = sizeof(users) / sizeof(users[0]);
