@@ -13,7 +13,7 @@ typedef struct {
 } Message;
 
 
-typedef void (*FilterFunc)(Message *, void *);
+typedef Bool (*FilterFunc)(Message *message, void *data);
 
 Bool isFailedMessage(Message *message, void *data){
     return message->status = FAILED;
@@ -37,9 +37,10 @@ void countMessages(Message message[], int N, char username[], int *sent, int *re
     }
 }
 
-// char** filterMessages(char **messages, int N, FilterFunc filter, void *data, int *n) {
+char** filterMessages(char **messages, int N, FilterFunc filter, void *data, int *n) {
 
-// }
+}
+
 int main(){
     int sent, received;
     char users[][20] = {
