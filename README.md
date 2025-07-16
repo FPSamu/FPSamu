@@ -15,10 +15,11 @@ I'm a Software Engineering student passionate about building impactful solutions
 ## 🌟 Featured Projects
 Here are some projects I'm proud of:
 
-- **[Estación Adelita Menú](https://github.com/FPSamu/estacion-adelita-menu)**
+- **[Estación Adelita Menú](https://github.com/FPSamu/EstacionAdelitaMenu)**
   *Description*: A professional, mobile-oriented interactive menu website for Estación Adelita restaurant, built using React and deployed on Vercel’s free domain. I handled all aspects from UX/UI design to full implementation.
   *Technologies*: React, JavaScript, Vercel
   *Impact*: Delivered a user-friendly digital menu, enhancing customer experience and accessibility for mobile users.
+  > **[Online Link](https://estacion-adelita-menu.vercel.app)**
 
 - **[SportsPredict](https://github.com/FPSamu/SportsPredict)**  
   *Description*: A full-stack platform providing analytics for soccer leagues (LaLiga, Champions League, Bundesliga, Serie A, Premier League) and NBA, using data from external APIs. Features include match outcome probabilities, goal predictions, and a search engine for team and league filtering, with user authentication.
