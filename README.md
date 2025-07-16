@@ -51,6 +51,6 @@ I'm excited to connect with recruiters and teams looking for a dedicated [softwa
 ---
 
 ## 🏆 Fun Facts
-- I'm a [Spanish] native speaker, I have C1 [English] level, and I also speak some [Italian] and [French]
+- I'm a ***Spanish*** native speaker, I have C1 ***English*** level, and I also speak some ***Italian*** and ***French***
 - Outside of coding, I enjoy exersicing. I'm actually training for my first marathon
 
