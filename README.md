@@ -30,9 +30,9 @@ Explore more in my [repositories](https://github.com/FPSamu?tab=repositories)!
 ---
 
 ## 🚀 Currently Working On
-- **[PIA - Personal Income Assistant]**: An AI-powered personal finance manager that allows users to log and categorize financial transactions, with a journal feature to track income and expenses. The app uses AI to provide personalized recommendations to improve users' financial health and achieve their goals.
+- [**PIA - Personal Income Assistant**]: An AI-powered personal finance manager that allows users to log and categorize financial transactions, with a journal feature to track income and expenses. The app uses AI to provide personalized recommendations to improve users' financial health and achieve their goals.
 > - **Learning Focus**: Mastering React Native to build cross-platform mobile applications and adopting industry-standard practices for professional project architecture.
-- **[Personal portfolio webpage]**: Designing a professional portfolio webpage to showcase my projects, skills, and experience, with a focus on clean UX/UI and modern design principles. The site will be developed and deployed in the future to enhance my online presence.
+- [**Personal portfolio webpage**]: Designing a professional portfolio webpage to showcase my projects, skills, and experience, with a focus on clean UX/UI and modern design principles. The site will be developed and deployed in the future to enhance my online presence.
 > - **Focus**: Crafting an intuitive and visually appealing design to effectively communicate my professional brand to recruiters and employers.
 
 ---
