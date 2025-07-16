@@ -44,7 +44,7 @@ Explore more in my [repositories](https://github.com/FPSamu?tab=repositories)!
 
 ## 📫 Get in Touch
 - **Email**: [samuel.pia@outlook.com](mailto:samuel.pia@outlook.com)  
-- **LinkedIn**: [linkedin.com/in/samupif]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/samupif/))  
+- **LinkedIn**: [linkedin.com/in/samupif](https://www.linkedin.com/in/samupif/)
 
 I'm excited to connect with recruiters and teams looking for a dedicated [software engineer] to drive innovation. Feel free to reach out!
 
@@ -54,7 +54,3 @@ I'm excited to connect with recruiters and teams looking for a dedicated [softwa
 - I'm a [Spanish] native speaker, I have C1 [English] level, and I also speak some [Italian] and [French]
 - Outside of coding, I enjoy exersicing. I'm actually training for my first marathon
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[FPSmau]&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[FPSamu]&layout=compact&theme=radical)
