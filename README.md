@@ -2,6 +2,12 @@
 
 I'm a Software Engineering student passionate about building impactful solutions and solving real-world problems through code. With a strong foundation in Python, JavaScript, Java and web technologies, I thrive in collaborative environments and am always eager to learn new technologies. Currently, I'm seeking opportunities to contribute my expertise to innovative teams.
 
+## 👨‍💻 Experience
+**Oracle** [January 2026 - Present]
+> **Software Engineer Intern**
+> - Oracle Database Test & Tools Development
+> - Python, Java, C/C++, Perl, SQL, React
+
 ---
 
 ## 🔧 Skills & Technologies
@@ -9,14 +15,6 @@ I'm a Software Engineering student passionate about building impactful solutions
 - **Frameworks & Libraries**: Node.js, React.js, React Native, Vue, Flask
 - **Databases**: PostgreSQL, MongoDB, MySQL, Cassandra, Dgraphg
 - **Other**: Agile methodologies
-
----
-
-## 👨‍💻 Experience
-**Oracle** [January 2026 - Present]
-> **Software Engineer Intern**
-> - Oracle Database Test & Tools Development
-> - Python, Java, C/C++, Perl, SQL, React
 
 ---
 
