@@ -10,10 +10,10 @@ I'm a Software Engineering student passionate about building impactful solutions
 
 **Estacion Adelita** [February 2024 - October 2024]
 > **Software Developer**
-> Implemented a digital mobile-first menu for the restaurant.
-> Worked on UX/UI design and full-stack development.
-> Increased restaurant social network retention and client conversion by 25%.
-> Node.js, JavaScript, Typescript, React.
+> - Implemented a digital mobile-first menu for the restaurant.
+> - Worked on UX/UI design and full-stack development.
+> - Increased restaurant social network retention and client conversion by 25%.
+> - Node.js, JavaScript, Typescript, React.
 
 
 ---
@@ -30,19 +30,19 @@ I'm a Software Engineering student passionate about building impactful solutions
 Here are some projects I'm proud of:
 
 - **PIA - Personal Income Assistant**
-  Created a full-stack mobile application for personal budgeting and financial tracking.
-  Leveraged AI to analyze transactions and generate personalized saving recommendations and financial sadvice.
-  Implemented automation for smart reminders and recommendations flow.
-  Improved over 50 user’s financial health.\
-  Python, Node.js, JavaScript, TypeScript, React Native, React, MongoDB, PostgreSQL.
+  - Created a full-stack mobile application for personal budgeting and financial tracking.
+  - Leveraged AI to analyze transactions and generate personalized saving recommendations and financial sadvice.
+  - Implemented automation for smart reminders and recommendations flow.
+  - Improved over 50 user’s financial health.\
+  - Python, Node.js, JavaScript, TypeScript, React Native, React, MongoDB, PostgreSQL.
 
 - **SportsPredict**  
-  Engineered a full-stack ML web application for real-time soccer data analysis and predictive modeling.
-  Implemented third-party APIs for data fetching.
-  Used numpy to calculate different possible events probabilities.
-  Used 3 different database schema for player statistics, player-teams relations and real-time data analysis.
-  Increased client conversion with easy-to-use UX/UI.
-  Python, MongoDB, Dgraph, Cassandra, Node.js, JavaScript, TypeScript, HTML, CSS.
+  - Engineered a full-stack ML web application for real-time soccer data analysis and predictive modeling.
+  - Implemented third-party APIs for data fetching.
+  - Used numpy to calculate different possible events probabilities.
+  - Used 3 different database schema for player statistics, player-teams relations and real-time data analysis.
+  - Increased client conversion with easy-to-use UX/UI.
+  - Python, MongoDB, Dgraph, Cassandra, Node.js, JavaScript, TypeScript, HTML, CSS.
 
 ---
 
