@@ -8,6 +8,14 @@ I'm a Software Engineering student passionate about building impactful solutions
 > - Oracle Database Test & Tools Development
 > - Python, Java, C/C++, Perl, SQL, React
 
+**Estacion Adelita** [February 2024 - October 2024]
+> **Software Developer**
+> Implemented a digital mobile-first menu for the restaurant.
+> Worked on UX/UI design and full-stack development.
+> Increased restaurant social network retention and client conversion by 25%.
+> Node.js, JavaScript, Typescript, React.
+
+
 ---
 
 ## 🔧 Skills & Technologies
@@ -21,31 +29,25 @@ I'm a Software Engineering student passionate about building impactful solutions
 ## 🌟 Featured Projects
 Here are some projects I'm proud of:
 
-- **[Estación Adelita Menú](https://github.com/FPSamu/EstacionAdelitaMenu)**
-  *Description*: A professional, mobile-oriented interactive menu website for Estación Adelita restaurant, built using React and deployed on Vercel’s free domain. I handled all aspects from UX/UI design to full implementation.
-  *Technologies*: React, JavaScript, Vercel
-  *Impact*: Delivered a user-friendly digital menu, enhancing customer experience and accessibility for mobile users.
-  > **[Estacion Adelita - Menu (Online)](https://estacion-adelita-menu.vercel.app)**
+- **PIA - Personal Income Assistant**
+  Created a full-stack mobile application for personal budgeting and financial tracking.
+  Leveraged AI to analyze transactions and generate personalized saving recommendations and financial sadvice.
+  Implemented automation for smart reminders and recommendations flow.
+  Improved over 50 user’s financial health.\
+  Python, Node.js, JavaScript, TypeScript, React Native, React, MongoDB, PostgreSQL.
 
-- **[SportsPredict](https://github.com/FPSamu/SportsPredict)**  
-  *Description*: A full-stack platform providing analytics for soccer leagues (LaLiga, Champions League, Bundesliga, Serie A, Premier League) and NBA, using data from external APIs. Features include match outcome probabilities, goal predictions, and a search engine for team and league filtering, with user authentication.
-  *Technologies*: HTML5, CSS, JavaScript, Python, MongoDB
-  *Impact*: Enabled sports enthusiasts to access data-driven insights, with a robust search and authentication system.
-
-Explore more in my [repositories](https://github.com/FPSamu?tab=repositories)!
-
----
-
-## 🚀 Currently Working On
-- **Atomic Habits Tracker - Backend**: A mobile app made for users to track their daily habits, inspired by James Clear's book "Atomic Habits".
-> - **Learning Focus**: Mastering Typescript to build good quality backend code following clean code and good structure standards.
-- **Personal portfolio webpage**: Designing a professional portfolio webpage to showcase my projects, skills, and experience, with a focus on clean UX/UI and modern design principles. The site will be developed and deployed in the future to enhance my online presence.
-> - **Focus**: Crafting an intuitive and visually appealing design to effectively communicate my professional brand to recruiters and employers.
+- **SportsPredict**  
+  Engineered a full-stack ML web application for real-time soccer data analysis and predictive modeling.
+  Implemented third-party APIs for data fetching.
+  Used numpy to calculate different possible events probabilities.
+  Used 3 different database schema for player statistics, player-teams relations and real-time data analysis.
+  Increased client conversion with easy-to-use UX/UI.
+  Python, MongoDB, Dgraph, Cassandra, Node.js, JavaScript, TypeScript, HTML, CSS.
 
 ---
 
 ## 🎓 Education
-- **B.S. Software development engineering | ITESO | Currently attending**  
+- **B.S. Software Engineering | ITESO | Currently attending**  
 
 ---
 
@@ -54,10 +56,4 @@ Explore more in my [repositories](https://github.com/FPSamu?tab=repositories)!
 - **LinkedIn**: [linkedin.com/in/samupif](https://www.linkedin.com/in/samupif/)
 
 I'm excited to connect with recruiters and teams looking for a dedicated [software engineer] to drive innovation. Feel free to reach out!
-
----
-
-## 🏆 Fun Facts
-- I'm a ***Spanish*** native speaker, my ***English*** is C1 level, and I also speak some ***Italian*** and ***French***
-- Outside of coding, I enjoy working out.
 
