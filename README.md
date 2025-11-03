@@ -5,10 +5,18 @@ I'm a Software Engineering student passionate about building impactful solutions
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, JavaScript, Java, C
+- **Languages**: Python, JavaScript, Java, C, C#
 - **Frameworks & Libraries**: Node.js, React.js, React Native, Vue, Flask
-- **Databases**: PostgreSQL, MongoDB, MySQL
+- **Databases**: PostgreSQL, MongoDB, MySQL, Cassandra, Dgraphg
 - **Other**: Agile methodologies
+
+---
+
+## 👨‍💻 Experience
+**Oracle** [January 2026 - Present]
+> **Software Engineer Intern**
+> - Oracle Database Test & Tools Development
+> - Python, Java, C/C++, Perl, SQL, React
 
 ---
 
