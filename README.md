@@ -5,8 +5,27 @@ I'm a Software Engineering student passionate about building impactful solutions
 ## 👨‍💻 Experience
 **Oracle** [January 2026 - Present]
 > **Software Engineer Intern**
-> - Oracle Database Test & Tools Development
-> - Python, Java, C/C++, Perl, SQL, React
+
+> - Integrated an AI-powered automation CI/CD pipeline.
+    - Code review.
+    - Automatic error classification.
+    - Test reports analysis.
+
+> - Co-developed an AI Agent VSCode extension for test development and test automation.
+    - Implemented MCP tools for test automation.
+    - Augmented RAG context by 300%.
+    - Upgraded support for twice the original supported programming languages.
+    
+> - Scaled a testing automation framework using Selenium for a VSCode extension with more than 700,000 users.
+
+> - Python, Java, C/C++, SQL, React
+
+**RewardsHub** [November 2025 - Present]
+> **Founder**
+> - Created a full-stack web/mobile platform for worldwide businesses’ loyalty programs.
+> - Implemented QR identification for users’ rewards management.
+> - More than 150 users.
+> - Node.js, JavaScript, TypeScript, React Native, React, MongoDB.
 
 **Estacion Adelita** [February 2024 - October 2024]
 > **Software Developer**
