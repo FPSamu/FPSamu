@@ -32,10 +32,8 @@ I'm a Software Engineering student passionate about building impactful solutions
 ---
 
 ## 🔧 Skills & Technologies
-- **Languages**: Python, JavaScript, Java, C, C#
-- **Frameworks & Libraries**: Node.js, React.js, React Native, Vue, Flask
-- **Databases**: PostgreSQL, MongoDB, MySQL, Cassandra, Dgraphg
-- **Other**: Agile methodologies
+- **Languages**: Python, Java, JavaScript/TypeScript, C, C#, Dart, Rust, SQL, NoSQL.
+- **Technologies**: Node.js, FastAPI, Spring Boot, React, Swift, Kotlin, OCI, AWS, Docker, CI/CD, Git.
 
 ---
 
@@ -56,7 +54,7 @@ Here are some projects I'm proud of:
 ---
 
 ## 🎓 Education
-- **B.S. Software Engineering | ITESO | Graduatint 2026**  
+- **B.S. Software Engineering | ITESO | Graduating December 2026**  
 
 ---
 
