@@ -21,7 +21,6 @@ I build and evaluate AI agent systems, LLM integrations, MCP tools and RAG pipel
 - 💼 Software Engineering Intern at **Oracle**, working on AI agent tooling and test automation
 - 🏦 Part-time Software Engineer at **Murciélago Software**, building fintech products
 - 🏗️ Founder of **RewardsHub**, a live B2B SaaS loyalty platform
-- 🧠 Currently building my own language model from scratch (**N.U.T.S.**)
 - 🏊 Training for an Ironman 70.3 in my free time
 
 ---
