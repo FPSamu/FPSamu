@@ -1,67 +1,107 @@
-# Hi, I'm Samuel Pia 👋
+<h1 align="center">Hi, I'm Samuel Pia Figueroa 👋</h1>
 
-I'm a Software Engineering student passionate about building impactful solutions and solving real-world problems through code. With a strong foundation in Python, JavaScript, Java and web technologies, I thrive in collaborative environments and am always eager to learn new technologies. Currently, I'm seeking opportunities to contribute my expertise to innovative teams.
+<p align="center">
+  <b>Software Engineer</b> · AI Agents · LLM Integration · Full-Stack · Test Automation<br>
+  Guadalajara, Mexico 🇲🇽 · EU citizen 🇮🇹 (can work anywhere in the EU/EEA and Switzerland without sponsorship)
+</p>
 
-## 👨‍💻 Experience
-**Oracle** [January 2026 - Present]
-> **Software Engineer Intern**
-> - Own CI/CD delivery processes, including automated testing and release validation, deploying tools to Oracle Cloud Infrastructure (OCI) used by 1.5 million users.
-> - Built and integrated REST APIs and backend services using FastAPI, collaborating across engineering and QA teams.
-> - Python, Java, SQL, React, FastAPI, OCI, Selenium, Playwright.
-
-**Murcielago Software** [July 2025 - Present]
-> **Founder**
-> - Contribute to BankSys, a digital banking platform for financial institutions and cooperatives, covering account, credit and investment management with native iOS and Android applications.
-> - Work on real-time transaction flows including SPEI interbank transfers, service payments and inter-account transfers, integrated directly with Mexico's national payment system.
-> - Build under regulated financial requirements (CNBV compliance) with cryptographic security via HSM-based soft token integration.
-> - Kotlin, Swift, TypeScript, JavaScript, Python, Java, Rust.
-
-**RewardsHub** [November 2025 - Present]
-> **Founder**
-> - Created a full-stack web/mobile platform for worldwide businesses’ loyalty programs.
-> - Implemented QR identification for users’ rewards management.
-> - More than 150 users.
-> - Node.js, JavaScript, TypeScript, React Native, React, MongoDB.
-
-**Estacion Adelita** [February 2024 - October 2024]
-> **Software Developer**
-> - Built and shipped a consumer-facing iOS app (on the App Store) for a full-stack loyalty platform, owning product and engineering end to end with 300+ active users.
-> - Led product, engineering, and client feedback loops across several businesses to improve adoption and usability.
-> - Node.js, JavaScript, TypeScript, Flutter, React, MongoDB, PostgreSQL.
+<p align="center">
+  <a href="mailto:samuel.pia@outlook.com"><img src="https://img.shields.io/badge/Email-samuel.pia%40outlook.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/samupif"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://rewardshub.cloud"><img src="https://img.shields.io/badge/RewardsHub-rewardshub.cloud-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
 
 ---
 
-## 🔧 Skills & Technologies
-- **Languages**: Python, Java, JavaScript/TypeScript, C, C#, Dart, Rust, SQL, NoSQL.
-- **Technologies**: Node.js, FastAPI, Spring Boot, React, Swift, Kotlin, OCI, AWS, Docker, CI/CD, Git.
+## 🚀 About Me
+
+I build and evaluate AI agent systems, LLM integrations, MCP tools and RAG pipelines, on top of a solid full-stack and test automation foundation.
+
+- 🎓 Software Engineering student at **ITESO**, graduating **December 2026** (GPA 9.2/10)
+- 💼 Software Engineering Intern at **Oracle**, working on AI agent tooling and test automation
+- 🏦 Part-time Software Engineer at **Murciélago Software**, building fintech products
+- 🏗️ Founder of **RewardsHub**, a live B2B SaaS loyalty platform
+- 🧠 Currently building my own language model from scratch (**N.U.T.S.**)
+- 🏊 Training for an Ironman 70.3 in my free time
 
 ---
 
-## 🌟 Featured Projects
-Here are some projects I'm proud of:
+## 💼 Experience
 
-- **PIA - Personal Income Assistant**
-  - Built a mobile app for budgeting and financial tracking that uses AI to analyze transactions and generate personalized saving recommendations.
-  - Automated reminders and recommendation flows, helping 50+ users track their spending habits and improve their personal finance decisions.
-  - TypeScript, Node.js, Swift, Kotlin, PostgreSQL, AI implementation.
+### Oracle · Software Engineering Intern (Full-time)
+**Jan 2026 - Present** · Zapopan, Mexico
+- Developed a **VS Code AI Agent extension** for test development and automation. Implemented MCP tools, improved RAG context capabilities and doubled the supported programming languages.
+- Built **AI-assisted evaluation pipelines** for automated quality assessment (code review, error classification, report analysis).
+- Improved automation frameworks for Oracle developer tools used by **1.5M+ users** (SQL Developer, FreeSQL, BaseDB@C). Increased test success rate by **30%**, reduced execution time and authored **200+ automated test cases**.
+- `Python` `Java` `SQL` `React` `FastAPI` `OCI` `Selenium` `Playwright`
 
-- **SportsPredict**  
-  - Engineered a full-stack ML web application for real-time soccer data analysis and predictive modeling.
-  - Integrated third-party APIs and designed a multi-database storage approach with MongoDB, Dgraph, and Cassandra for different data structures.
-  - Used NumPy to calculate event probabilities and support prediction workflows.
-  - Python, MongoDB, Dgraph, Cassandra, Node.js, JavaScript, TypeScript, HTML, CSS.
+### Murciélago Software · Software Engineer (Part-time)
+**Jul 2026 - Present**
+- Mobile app development and support for private financial institutions.
+- Developed an on-premise **cryptographic security module using HSM** technology.
+- Built task automation software using **agentic AI**.
+- `Swift` `Kotlin` `TypeScript` `JavaScript` `Python` `Java` `Rust`
+
+### RewardsHub · Founder & Software Engineer
+**Nov 2025 - Present** · [rewardshub.cloud](https://rewardshub.cloud)
+- Developed and deployed a full-stack loyalty platform for businesses, including a customer-facing **iOS app on the App Store** with 100+ downloads.
+- Manage **300+ active users** and **1,000+ transactions** across 5+ businesses.
+- Built Apple Wallet and Google Wallet pass integration with dynamic reward progress.
+- Lead product, engineering and client feedback loops to improve adoption and usability.
+- `Node.js` `TypeScript` `Flutter` `React` `MongoDB`
 
 ---
 
-## 🎓 Education
-- **B.S. Software Engineering | ITESO | Graduating December 2026**  
+## 🛠️ Featured Projects
+
+| Project | Description | Stack | Date |
+|---|---|---|---|
+| **N.U.T.S.** (Neural Understanding & Text Synthesizer) | Language model built from scratch, to be hosted on AWS | `Python` `AWS` | 2026 - Present |
+| **Unitree Humanoid Person-Following** | Real-time computer vision system that lets a Unitree humanoid robot detect, track and follow a person | `Python` `YOLO` `OpenCV` | Aug 2026 - Present |
+| **Scalable Cloud Architecture** | Scalable infrastructure with load balancing and container orchestration | `AWS` `Terraform` `Kubernetes` | Aug 2026 - Present |
+| **GreenITESO** | Platform that promotes sustainable habits in the university community. I'm the software architect on an 18-person team | `React` `FastAPI` | Aug 2026 - Present |
+| **Guadalajara Urban Flood Simulation** | Agent-based model of urban flooding caused by clogged storm drains. Accepted to present at **GAMA Days** | `GAMA` `GAML` | 2026 |
+| **PIA, Personal Income Assistant** | AI-powered budgeting app that analyzes transactions and gives personalized saving recommendations to 50+ users | `React Native` `Node.js` `Python` `PostgreSQL` | May 2025 - Aug 2025 |
+| **SportsPredict** | Full-stack ML web app for real-time soccer data analysis and predictive modeling, with a multi-database design | `Python` `MongoDB` `Dgraph` `Cassandra` | Jun 2024 - Jun 2025 |
 
 ---
 
-## 📫 Get in Touch
-- **Email**: [samuel.pia@outlook.com](mailto:samuel.pia@outlook.com)  
-- **LinkedIn**: [linkedin.com/in/samupif](https://www.linkedin.com/in/samupif/)
-- **Portfolio**: [fpsamu.github.io/Portfolio/](https://fpsamu.github.io/Portfolio/)
+## 🧰 Tech Stack
 
-I'm excited to connect with recruiters and teams looking for a dedicated [software engineer] to drive innovation. Feel free to reach out!
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
+**AI & LLMs**
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E40C9?style=flat-square)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**
